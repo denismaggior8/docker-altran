@@ -7,5 +7,4 @@ export VAGRANT_HTTP_PROXY=${http_proxy}
 export VAGRANT_NO_PROXY="127.0.0.1"
 vagrant plugin install vagrant-hostmanager
 vagrant plugin install vagrant-proxyconf
-vagrant plugin install vagrant-vbguest
 vagrant up
