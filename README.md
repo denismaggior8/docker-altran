@@ -20,3 +20,9 @@ $ git clone https://github.com/denismaggior8/docker-altran.git
 $ cd docker-altran
 $ ./start.sh
 ```
+
+## Enter in the machine
+
+```
+$ vagrant ssh
+```
