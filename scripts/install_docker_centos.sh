@@ -26,3 +26,5 @@ usermod -a -G docker vagrant
 
 sudo systemctl enable docker
 sudo service docker start
+
+sudo chmod a+rw /var/run/docker
